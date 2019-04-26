@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/*
+body{margin:0;padding:0;font-family:sans-serif}:root{--main-margins:10vw;--top-bar-height:100px;--content-height:calc(100vh - var(--top-bar-height));--text:#2a2a2a;--bg:#e1f5c4;--highlight:#fc913a;--highlight-dark:#ede574;--alt-bg:#f9d423}body{background:var(--bg);font-family:Verdana,Geneva,sans-serif}.MainContainer{-webkit-box-sizing:border-box;box-sizing:border-box;font-size:1.8rem;color:var(--text);padding-left:var(--main-margins);padding-right:var(--main-margins);-webkit-box-shadow:inset 0 20px 50px rgba(0,0,0,.1);box-shadow:inset 0 20px 50px rgba(0,0,0,.1)}.MainContainer img{max-width:100%}.TitleBar{-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:10vw;padding-top:5px;margin-top:0;padding-bottom:5px;color:var(--text);background:var(--alt-bg);border-bottom:4px solid var(--highlight);-webkit-box-shadow:inset -30px -30px 50px rgba(0,0,0,.05);box-shadow:inset -30px -30px 50px rgba(0,0,0,.05);height:var(--top-bar-height);display:grid;grid-template-columns:1fr 100px 1fr;font-size:1.8em;-ms-flex-align:right;align-items:right}.TitleBar>h1{font-size:1.8em;line-height:1.1;font-weight:200;letter-spacing:1px}.TitleBar-logo{height:60px;float:left;margin-right:30px;margin-top:30px}.MainContainer{grid-template-rows:150px auto;display:grid;min-height:var(--content-height)}.BarChart{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr;grid-gap:5px;-ms-flex-align:end;align-items:end;position:relative}.BarChart-bar{color:--var(--text);height:100px;font-size:4vw;-webkit-transition:-webkit-transform .5s,-webkit-filter .5s;transition:-webkit-transform .5s,-webkit-filter .5s;-o-transition:transform .5s,filter .5s;transition:transform .5s,filter .5s;transition:transform .5s,filter .5s,-webkit-transform .5s,-webkit-filter .5s;-webkit-transform:perspective(1000px) translate3d(0,1px,0);transform:perspective(1000px) translate3d(0,1px,0);text-align:center}.BarChart-bar--small{position:absolute;bottom:10px;left:0;width:100%;text-align:center;display:block}.BarChart-bar:nth-child(2n){background-color:var(--highlight)}.BarChart-bar:nth-child(odd){background-color:var(--highlight-dark)}.BarChart-bar:hover{-webkit-filter:brightness(1.5);filter:brightness(1.5);position:relative;top:0;left:0;z-index:10;cursor:pointer;-webkit-transform:perspective(1000px) translateZ(100px);transform:perspective(1000px) translateZ(100px)}.CurrencyChooser{float:right}.CurrencyChooser-select{border:1px solid var(--highlight-dark);background:var(--highlight);padding:2px}.CurrencyChooser-select>option{color:var(--text)}.MultipleCurrencies,.MultipleCurrencies select{min-width:250px}
+
+
+*/
+
+
